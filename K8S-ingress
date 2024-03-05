@@ -1,1 +1,2 @@
-K8s will allow user to create ingress and create a particular services, and now all the load balancers companies will write a ingress controller.
+Why ingress needed - K8s controller did not have enterprise LB capabilities.
+What ingress actually does - K8s will allow user to create ingress and create a particular service, and now all the load balancers companies will write an ingress controller (LB)
